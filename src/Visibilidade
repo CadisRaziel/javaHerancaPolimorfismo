@@ -1,0 +1,3 @@
+Private -> Só dentro da classe
+Protected -> Dentro da classe, mesmo pacote e subclases
+Public -> Qualquer lugar
