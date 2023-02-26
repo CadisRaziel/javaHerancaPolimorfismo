@@ -7,6 +7,8 @@ public class Conta {
     //ou seja elas não sobreescreveram o metodo exibirSaldo
     //Sobrescrita -> utilizar essa função porém colocar algo a mais nela
     //ou seja eu posso na classe 'poupanca' e sobreescrever o metodo exibirSaldo e colocar um calculo de juros nele.
-    public void exibirSaldo(){}
+    public void exibirSaldo(){
+        System.out.println("Metodo exibirSaldo da classe CONTA\n");
+    }
 
 }
